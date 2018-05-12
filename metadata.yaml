@@ -1,0 +1,29 @@
+_repo: Sargent_42828
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42828-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Wood, T. Martin
+    alias: Wood, Thomas Martin
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '5498'
+    url: http://www.gutenberg.org/2009/agents/5498
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Sargent, John Singer, 1856-1925'
+- !lcc 'ND'
+title: Sargent
+url: http://www.gutenberg.org/ebooks/42828
